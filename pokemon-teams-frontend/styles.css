@@ -67,4 +67,14 @@ body {
       grid-template-columns: 1fr 1fr 1fr 1fr;
     }
   }
+
+  #trainer-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
   
